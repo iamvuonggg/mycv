@@ -121,6 +121,7 @@
     <Content Include="images\103-4.jpg" />
     <Content Include="images\103.jpg" />
     <Content Include="images\admin.jpg" />
+    <Content Include="images\bao.png" />
     <Content Include="images\bill-atm-dv.jpg" />
     <Content Include="images\bill-atm.jpg" />
     <Content Include="images\dichvu-1.png" />
@@ -128,6 +129,8 @@
     <Content Include="images\dichvu-3.png" />
     <Content Include="images\pexels-kelly-1179532-2833657.jpg" />
     <Content Include="images\qrcode.png" />
+    <Content Include="images\Screenshot 2024-12-16 154103.png" />
+    <Content Include="images\ThongBao.png" />
     <Content Include="QuanLyBillDN.aspx" />
     <Content Include="QuanLyBillDV.aspx" />
     <Content Include="QuanLyCanHo.aspx" />
